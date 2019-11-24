@@ -1,0 +1,15 @@
+passthrough_vs20.fxc
+common_vs_fxc.h
+common_fxc.h
+common_pragmas.h
+common_hlsl_cpp_consts.h
+post_nightvision_ps20.fxc
+common_ps_fxc.h
+common_fxc.h
+common_hlsl_cpp_consts.h
+common_pragmas.h
+E:\Projects\sourcemods\xano-nano\sp\src\dx9sdk\utilities\dx_proxy.dll 
+D:\Games\Steam\SteamApps\common\Source SDK Base 2013 Singleplayer\bin\shadercompile.exe 
+D:\Games\Steam\SteamApps\common\Source SDK Base 2013 Singleplayer\bin\shadercompile_dll.dll 
+D:\Games\Steam\SteamApps\common\Source SDK Base 2013 Singleplayer\bin\vstdlib.dll 
+D:\Games\Steam\SteamApps\common\Source SDK Base 2013 Singleplayer\bin\tier0.dll 

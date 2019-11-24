@@ -1,0 +1,2 @@
+..\..\..\game\hl2\shaders\fxc\passthrough_vs20.vcs
+..\..\..\game\hl2\shaders\fxc\post_nightvision_ps20.vcs
